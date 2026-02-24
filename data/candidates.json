@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cand_001",
+    "name": "Alex",
+    "age": 31,
+    "location": "San Francisco",
+    "interests": ["hiking", "running", "cooking", "podcasts"],
+    "values": ["honesty", "family", "ambition", "kindness"],
+    "relationshipGoals": ["long-term relationship", "marriage", "kids"],
+    "dealBreakers": ["heavy partying"]
+  },
+  {
+    "id": "cand_002",
+    "name": "Taylor",
+    "age": 28,
+    "location": "San Jose",
+    "interests": ["gaming", "travel", "live music", "coffee roasting"],
+    "values": ["adventure", "independence", "growth mindset"],
+    "relationshipGoals": ["long-term relationship", "travel-heavy lifestyle"],
+    "dealBreakers": ["wants kids soon"]
+  },
+  {
+    "id": "cand_003",
+    "name": "Morgan",
+    "age": 30,
+    "location": "San Francisco",
+    "interests": ["hiking", "photography", "cooking", "yoga"],
+    "values": ["kindness", "honesty", "family", "empathy"],
+    "relationshipGoals": ["long-term relationship", "marriage", "kids"],
+    "dealBreakers": ["smoking", "dishonesty"]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "seeker_001",
+  "name": "Jamie",
+  "age": 29,
+  "location": "San Francisco",
+  "interests": ["hiking", "cooking", "live music", "travel"],
+  "values": ["honesty", "kindness", "growth mindset", "family"],
+  "relationshipGoals": ["long-term relationship", "marriage", "shared routines"],
+  "dealBreakers": ["smoking", "doesn't want kids", "disrespectful communication"]
+}
